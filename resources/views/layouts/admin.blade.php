@@ -9,6 +9,7 @@
     @stack('styles')
 </head>
 <body class="bg-gray-100">
+    
     <div class="flex h-screen">
         <!-- Sidebar -->
         @include('components.sidebar', ['active' => $active ?? 'dashboard'])

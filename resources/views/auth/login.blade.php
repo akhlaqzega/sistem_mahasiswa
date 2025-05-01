@@ -16,8 +16,6 @@
                 Login
             </button>
         </div>
-        <div class="text-center">
-            <a href="#" class="text-sm text-blue-600 hover:underline">Lupa password?</a>
-        </div>
+      
     </form>
 @endsection
